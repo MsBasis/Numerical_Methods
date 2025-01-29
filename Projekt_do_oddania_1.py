@@ -132,6 +132,7 @@ def wykres():
     plt.show()
 
 wykres()
+print("zobaczmy czy cos sie zmieni w branchach"
 """
 
 
